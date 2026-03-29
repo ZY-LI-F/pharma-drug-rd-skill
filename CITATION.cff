@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Pharma Drug R&D Skill Suite"
+message: "If you use this repository, please cite it using the metadata below and acknowledge the upstream open-source projects listed in README.md and OPEN_SOURCE_SOURCES.md."
+type: software
+authors:
+  - family-names: "Zhang"
+    given-names: "Ya"
+repository-code: "https://github.com/ZY-LI-F/pharma-drug-rd-skill"
+url: "https://github.com/ZY-LI-F/pharma-drug-rd-skill"
+license: "MIT"
+abstract: "A public collection of reusable ChatGPT skills for computational and digital drug research and development, spanning target discovery, repurposing, safety review, structure planning, virtual screening, ADMET modeling, de novo design, clinical study operations, and lab knowledge capture."
+keywords:
+  - drug discovery
+  - computational biology
+  - virtual screening
+  - admet
+  - pharmacogenomics
+  - clinical operations
+  - lab informatics
+version: "0.1.0"
+date-released: "2026-03-29"
