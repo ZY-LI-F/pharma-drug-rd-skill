@@ -36,6 +36,9 @@ This repository does **not** currently provide production-ready wet-lab protocol
 ├── README.md
 ├── README_CN.md
 ├── OPEN_SOURCE_SOURCES.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── CITATION.cff
 ├── target-evidence-triage/
 ├── repurposing-hypothesis-screen/
 ├── safety-pgx-brief/
@@ -88,7 +91,7 @@ If you use this repository in research or internal enablement work:
 2. do not imply endorsement by those upstream maintainers;
 3. verify license compatibility before copying code, models, or assets from upstream repositories.
 
-See [`OPEN_SOURCE_SOURCES.md`](./OPEN_SOURCE_SOURCES.md) for the provenance summary.
+See [`OPEN_SOURCE_SOURCES.md`](./OPEN_SOURCE_SOURCES.md) for the provenance summary and [`CITATION.cff`](./CITATION.cff) for repository citation metadata.
 
 ## How to use
 
@@ -141,8 +144,8 @@ Issues and pull requests are welcome for:
 - new open-source project mappings
 - additional deployment metadata such as `agents/openai.yaml`
 
-When contributing, please keep provenance explicit and avoid adding third-party code or assets without confirming license compatibility.
+Please review [`CONTRIBUTING.md`](./CONTRIBUTING.md) before opening a pull request.
 
 ## License
 
-A repository-wide license file has not yet been added. Add a project license before reusing this repository as a general redistribution artifact.
+This repository is licensed under the **MIT License**. See [`LICENSE`](./LICENSE) for the full text.
